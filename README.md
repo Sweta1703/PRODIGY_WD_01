@@ -1,2 +1,1 @@
-# PRODIGY_WD_01
-Interactive Navigation Bar
+# Interactive_Navigation_Bar
